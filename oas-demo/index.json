@@ -6,11 +6,11 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "CodeGen",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "UI",
         "text": "step2.md"
       },
       {

@@ -1,3 +1,4 @@
 # CodeGen
 
-Allow a code block to be executed `echo "hello"`{{execute}}
+Liste des langages suportés par Codegen `java -jar swagger-codegen-cli.jar langs"`{{execute}}
+
