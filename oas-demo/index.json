@@ -23,15 +23,21 @@
     },
     "finish": {
       "text": "finish.md"
+    },
+    "assets": {
+      "client": [
+        {
+          "file": "petstore.yaml",
+          "target": "~/"
+        }
+      ],
+      "host01": [
+        {
+          "file": "petstore.yaml",
+          "target": "~/"
+        }
+      ]
     }
-  },
-  "assets": {
-    "client": [
-      {
-        "file": "petstore.yaml",
-        "target": "~/"
-      }
-    ]
   },
   "files": [
     "petstore.yaml"
