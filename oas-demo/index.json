@@ -26,6 +26,9 @@
   "environment": {
     "uilayout": "editor-terminal"
   },
+  "files": [
+    "petstore.yaml"
+  ],
   "backend": {
     "imageid": "java8"
   }
