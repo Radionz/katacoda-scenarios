@@ -39,9 +39,9 @@
       ]
     }
   },
-  "files": [
-    "petstore.yaml"
-  ],
+  // "files": [
+  //   "petstore.yaml"
+  // ],
   "environment": {
     "showdashboard": true,
     "dashboard": "Dashboard",
