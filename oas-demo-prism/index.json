@@ -32,6 +32,7 @@
   },
   "environment": {
     "showdashboard": true,
+    "dashboards": [{"name": "Mock Server", "port": 8080}],
     "uilayout": "editor-terminal"
   },
   
