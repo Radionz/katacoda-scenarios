@@ -1,6 +1,8 @@
 {
   "title": "OpenAPI Specification Demo",
   "description": "Try OAS ecosystem",
+  "difficulty": "beginner",
+  "time": "5-10 minutes",
   "details": {
     "steps": [
       {
@@ -23,12 +25,22 @@
       "text": "finish.md"
     }
   },
-  "environment": {
-    "uilayout": "editor-terminal"
+  "assets": {
+    "host01": [
+      {
+        "file": "petstore.yaml",
+        "target": "~/"
+      }
+    ]
   },
   "files": [
     "petstore.yaml"
   ],
+  "environment": {
+    "showdashboard": true,
+    "uilayout": "editor-terminal"
+  },
+  
   "backend": {
     "imageid": "java8"
   }
