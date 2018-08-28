@@ -1,21 +1,17 @@
 {
-  "title": "OpenAPI Specification Demo 2",
-  "description": "Try OAS ecosystem",
+  "title": "OAS Mock - Stoplight prism",
+  "description": "Try OAS auto-mocking server with Prism",
   "difficulty": "beginner",
-  "time": "5-10 minutes",
+  "time": "5 minutes",
   "details": {
     "steps": [
       {
-        "title": "UI",
+        "title": "Install Prism",
         "text": "step1.md"
       },
       {
-        "title": "CodeGen",
+        "title": "Run mock server with prism",
         "text": "step2.md"
-      },
-      {
-        "title": "SwaggerNode",
-        "text": "step3.md"
       }
     ],
     "intro": {
@@ -28,7 +24,7 @@
     "assets": {
       "client": [
         {
-          "file": "petstore.yaml",
+          "file": "petstore.json",
           "target": "~/"
         }
       ]
@@ -36,7 +32,6 @@
   },
   "environment": {
     "showdashboard": true,
-    "dashboard": "Dashboard",
     "uilayout": "editor-terminal"
   },
   
