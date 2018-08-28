@@ -6,15 +6,15 @@
   "details": {
     "steps": [
       {
-        "title": "CodeGen",
+        "title": "UI",
         "text": "step1.md"
       },
       {
-        "title": "UI",
+        "title": "CodeGen",
         "text": "step2.md"
       },
       {
-        "title": "Step 3",
+        "title": "SwaggerNode",
         "text": "step3.md"
       }
     ],
@@ -27,12 +27,6 @@
     },
     "assets": {
       "client": [
-        {
-          "file": "petstore.yaml",
-          "target": "~/"
-        }
-      ],
-      "host01": [
         {
           "file": "petstore.yaml",
           "target": "~/"
