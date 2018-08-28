@@ -1,0 +1,46 @@
+{
+  "title": "OpenAPI Specification Demo 2",
+  "description": "Try OAS ecosystem",
+  "difficulty": "beginner",
+  "time": "5-10 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "UI",
+        "text": "step1.md"
+      },
+      {
+        "title": "CodeGen",
+        "text": "step2.md"
+      },
+      {
+        "title": "SwaggerNode",
+        "text": "step3.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md",
+      "courseData": "env-init.sh"
+    },
+    "finish": {
+      "text": "finish.md"
+    },
+    "assets": {
+      "client": [
+        {
+          "file": "petstore.yaml",
+          "target": "~/"
+        }
+      ]
+    }
+  },
+  "environment": {
+    "showdashboard": true,
+    "dashboard": "Dashboard",
+    "uilayout": "editor-terminal"
+  },
+  
+  "backend": {
+    "imageid": "node6"
+  }
+}
