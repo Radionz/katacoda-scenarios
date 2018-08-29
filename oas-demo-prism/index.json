@@ -7,8 +7,7 @@
     "steps": [
       {
         "title": "Install Prism",
-        "text": "step1.md",
-        "verify": "step1-verify.sh"
+        "text": "step1.md"
       },
       {
         "title": "Run mock server with prism",

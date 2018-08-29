@@ -1,1 +1,0 @@
-[ prism version ] && echo "done"
