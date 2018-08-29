@@ -16,7 +16,8 @@
       },
       {
         "title": "Packager SpringBoot",
-        "text": "step3.md"
+        "text": "step3.md",
+        "courseData": "env-step-3.sh"
       },
       {
         "title": "Exécuter et Tester SpringBoot",
