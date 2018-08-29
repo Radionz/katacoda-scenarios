@@ -25,7 +25,13 @@
       "client": [
         {
           "file": "petstore.json",
-          "target": "/root/"
+          "target": "~/"
+        }
+      ],
+      "host01": [
+        {
+          "file": "petstore.json",
+          "target": "~/"
         }
       ]
     }
@@ -35,8 +41,7 @@
     "dashboards": [{"name": "Mock Server", "port": 8080}],
     "uilayout": "editor-terminal"
   },
-  
   "backend": {
-    "imageid": "docker"
+    "imageid": "ubuntu"
   }
 }
