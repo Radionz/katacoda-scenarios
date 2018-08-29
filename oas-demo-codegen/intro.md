@@ -1,7 +1,9 @@
-# Atos OpenAPI Specification Demo
+# Atos BDSS - OpenAPI Specification - Codegen Demo
 
-Le but est de pouvoir tester rapidement les outils dans l’écosystème OpenAPI
-
-- CodeGen
-- Inspector
-- UI
+Contenu de cette démo:
+- Observer le fichier petstore.json
+- Générer du code J2EE SpringBoot avec Swagger CodeGen
+- Compiler le code SpringBoot
+- Lancer le code SpringBoot
+- Visualiser la documentation graphique
+- Tester un appel surs l'API
