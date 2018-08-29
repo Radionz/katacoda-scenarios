@@ -37,7 +37,6 @@
     }
   },
   "environment": {
-    "hideintro": true,
     "hidefinish": true,
     "showdashboard": true,
     "dashboards": [{"name": "Mock Server", "port": 8080}],
