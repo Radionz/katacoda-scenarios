@@ -1,5 +1,5 @@
 # Packager l'application avec Maven
 
-Se déplacer dans le dossier de l'application `cd ./server/springboot`{{execute}}
+1. Se déplacer dans le dossier de l'application `cd ./server/springboot`{{execute}}
 
-Créer un jar autoporté (Tomee embedded) du code SpringBoot avec maven `mvn package`{{execute}}
+2. Créer un jar autoporté (Tomee embedded) du code SpringBoot avec maven `mvn package`{{execute}}
