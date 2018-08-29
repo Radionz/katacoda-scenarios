@@ -63,10 +63,10 @@
             },
             "examples": {
               "application/json": [
-                {"id":60593302,"name":"Médor","tag":"0123456"},
-                {"id":64619665,"name":"Oscar","tag":"0123456"},
-                {"id":87602374,"name":"Chipie","tag":"0123456"},
-                {"id":00649565,"name":"Tigrou","tag":"0123456"}
+                {"id":60593302,"name":"Médor","tag":"123456"},
+                {"id":64619665,"name":"Oscar","tag":"123456"},
+                {"id":87602374,"name":"Chipie","tag":"123456"},
+                {"id":40649565,"name":"Tigrou","tag":"123456"}
               ]
             }
           },
