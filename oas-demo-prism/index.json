@@ -1,7 +1,7 @@
 {
   "title": "OAS Mock - Stoplight prism",
-  "description": "Try OAS auto-mocking server with Prism",
-  "difficulty": "beginner",
+  "description": "OAS auto-mocking server using Stoplight Prism",
+  "difficulty": "Easy",
   "time": "5 minutes",
   "details": {
     "steps": [

@@ -1,4 +1,5 @@
-# CodeGen
+# Langages supportés par Swagger CodeGen
 
-Liste des langages suportés par Codegen `java -jar swagger-codegen-cli.jar langs`{{execute}}
+Lister des langages suportés par Codegen `java -jar swagger-codegen-cli.jar langs`{{execute}}
+
 

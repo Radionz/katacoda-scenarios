@@ -1,21 +1,26 @@
 {
-  "title": "OpenAPI Specification Demo",
-  "description": "Try OAS ecosystem",
-  "difficulty": "beginner",
-  "time": "5-10 minutes",
+  "title": "OAS CodeGen - Swagger CodeGen",
+  "description": "OAS code generation for client and server using Swagger CodeGen",
+  "difficulty": "Easy",
+  "time": "10 minutes",
   "details": {
     "steps": [
       {
-        "title": "UI",
+        "title": "Languages CodeGen",
         "text": "step1.md"
       },
       {
-        "title": "CodeGen",
-        "text": "step2.md"
+        "title": "Générateur CodeGen",
+        "text": "step2.md",
+        "courseData": "env-step-2.sh"
       },
       {
-        "title": "SwaggerNode",
+        "title": "Packager SpringBoot",
         "text": "step3.md"
+      },
+      {
+        "title": "Exécuter et Tester SpringBoot",
+        "text": "step4.md"
       }
     ],
     "intro": {
@@ -29,6 +34,10 @@
       "client": [
         {
           "file": "petstore.yaml",
+          "target": "~/"
+        },
+        {
+          "file": "petstore.json",
           "target": "~/"
         }
       ]
