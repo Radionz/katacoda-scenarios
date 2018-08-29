@@ -25,7 +25,7 @@
       "client": [
         {
           "file": "petstore.json",
-          "target": "~/"
+          "target": "/root/"
         }
       ]
     }
